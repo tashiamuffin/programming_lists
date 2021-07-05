@@ -1,4 +1,4 @@
-##PROGRAMOWANIE ROK 1 SEMESTR 2 
+## PROGRAMOWANIE ROK 1 SEMESTR 2 
 
 
 Rozwiązania zadań z list na kurs Programowanie.
