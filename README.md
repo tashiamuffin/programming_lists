@@ -5,3 +5,6 @@ Rozwiązania zadań z list na kurs Programowanie.
 
 
 listy 1 -6, lista 7 to gra (repozytorium Frogger)
+
+## Technologie 
+**Python(3.7.0)**
